@@ -2,7 +2,13 @@
 
 _________________________
 
-I initially wrote this package to create a storage area for personal functions that I can load upon startup. I also wanted to learn how to write my own package (success); now I can easily and cleanly incorporate personal functions into collaboritive projects knowing that they'll work on systems other than my own.  
+I initially wrote this package to create a storage area for personal functions that I can autoload upon startup. I also wanted to learn how to write my own package (success!); now I can easily and cleanly incorporate personal functions into collaboritive projects.  
+
+## Package download instructions
+From R:
+Install devtools if not previously installed: install.packages("devtools")
+library(devtools)
+install_github("B-Davis/bdavis")
 
 ## Content
 
