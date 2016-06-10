@@ -1,9 +1,9 @@
 Package: bdavis
 Type: Package
-Title: What the Package Does (Title Case)
+Title: random functions I like to load upon startup
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: person("Brian", "Davis", email = "broadwaybrian@gmail.com", role = c("aut", "cre"))
+Description: NA
+License: Open Source
 LazyData: TRUE
 RoxygenNote: 5.0.1
