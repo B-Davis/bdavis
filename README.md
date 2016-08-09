@@ -18,3 +18,4 @@ This package includes a few custom functions that are subject to change:
 2. ht() # first and last 10 lines of data frame/matrix (head/tail)
 3. base.change() # converts number of any base (1-26) to same number in base of choice
 4. %nin% # inverse of %in% (not in)
+5. banner() # adds ggplot style banners to plots. Handy when paneling multiple plots using base r functions

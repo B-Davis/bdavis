@@ -13,6 +13,6 @@ scrape(url)
 data.frame of web content
 }
 \description{
-Quick and dirty function used to scrape html content from websites. Function may need to be modified depending on situational needs.
+Quick and dirty function used to scrape html content from websites (works well when applied to raw data from PTAGIS website). Function may need to be modified depending on situational needs.
 }
 
