@@ -7,15 +7,15 @@
 banner(Text = "", size = 1, color = "grey", font = 2, ...)
 }
 \arguments{
-\item{Text, }{character string; text to display inside banner}
+\item{Text}{character string; text to display inside banner}
 
-\item{size, }{numeric (1 stays the same, 1.2 increases size by 20% etc.); size of banner}
+\item{size}{numeric (1 stays the same, 1.2 increases size by 20% etc.); size of banner}
 
-\item{color;}{banner background defaults to grey}
+\item{color}{banner background defaults to grey}
 
-\item{font;}{defasults to bold (2)}
+\item{font}{defasults to bold (2)}
 
-\item{...;}{other text parameters including cex, etc.}
+\item{...}{other text parameters including cex, etc.}
 }
 \value{
 Banner/text on top of plot
