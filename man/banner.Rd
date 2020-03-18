@@ -9,7 +9,7 @@ banner(Text = "", size = 1, color = "grey", font = 2, ...)
 \arguments{
 \item{Text}{character string; text to display inside banner}
 
-\item{size}{numeric (1 stays the same, 1.2 increases size by 20% etc.); size of banner}
+\item{size}{numeric (1 stays the same, 1.2 increases size by 20 percent etc.); size of banner}
 
 \item{color}{banner background defaults to grey}
 
